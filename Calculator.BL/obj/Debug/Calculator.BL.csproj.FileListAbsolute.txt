@@ -1,0 +1,5 @@
+C:\Users\home\source\repos\Calculator\Calculator.BL\bin\Debug\Calculator.BL.dll
+C:\Users\home\source\repos\Calculator\Calculator.BL\bin\Debug\Calculator.BL.pdb
+C:\Users\home\source\repos\Calculator\Calculator.BL\obj\Debug\Calculator.BL.csprojAssemblyReference.cache
+C:\Users\home\source\repos\Calculator\Calculator.BL\obj\Debug\Calculator.BL.dll
+C:\Users\home\source\repos\Calculator\Calculator.BL\obj\Debug\Calculator.BL.pdb
